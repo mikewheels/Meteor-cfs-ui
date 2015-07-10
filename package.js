@@ -10,6 +10,7 @@ Package.onUse(function(api) {
 
   api.use([
     'cfs:base-package@0.0.27',
+    'cfs:ejson-file@0.1.4',
     'cfs:file@0.1.15',
     'blaze',
     'templating'
